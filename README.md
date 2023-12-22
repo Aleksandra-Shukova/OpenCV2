@@ -1,1 +1,1 @@
-# OpenCV2
+# OpenCV2 homework2 with ai
